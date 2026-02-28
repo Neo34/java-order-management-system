@@ -1,26 +1,3 @@
-# 📦 Order Management System - Java OOP
-
-## 🚀 Overview
-
-This project was developed to strengthen Object-Oriented Programming (OOP) fundamentals using Java.  
-It simulates a basic order management system with freight calculation and discount coupon application.
-
-The goal is not only to practice Java syntax, but to demonstrate clean architecture, separation of concerns, and professional development practices.
-
----
-
-## 🧠 Concepts Applied
-
-- Object-Oriented Programming (OOP)
-- Abstraction
-- Inheritance
-- Polymorphism
-- Encapsulation
-- Layered Architecture
-- Business Rule Separation
-
----
-
 ## 🏗 Project Structure
 # 📦 Order Management System - Java OOP
 
